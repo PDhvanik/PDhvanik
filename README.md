@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhvanik Patel</h1>
 <h3 align="center">A passionate MERN stack developer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pdhvanik&label=Profile%20views&color=0e75b6&style=flat" alt="pdhvanik" /> </p>
-
 - 🔭 I’m currently working on **Bill Generator App**
 
 - 🌱 I’m currently learning **React Native, Next JS**
@@ -15,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/patel dhvanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patel dhvanik" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pateldhvanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patel dhvanik" height="30" width="40" /></a>
 <a href="https://hashnode.com/@dhvanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@dhvanik" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/guddu_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="guddu_p" height="30" width="40" /></a>
 </p>
