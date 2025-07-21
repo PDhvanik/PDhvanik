@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dhvanik Patel</h1>
 <h3 align="center">A passionate MERN stack developer from India.</h3>
 
-- 🔭 I’m currently working on **Online learning platform -SecureWaveTechnologies**
+- 🔭 I’m currently working on **Online learning platform -<a href="https://www.securewavetechnologies.co.in" target="blank">SecureWaveTechnologies</a> **
 
-- 🌱 I’m currently learning **React Native, Next JS**
+- 🌱 I’m currently learning **React Native, Jest testing library**
 
 - 💬 Ask me about **React, JavaScript, Node JS, Express, MongoDB and MySQL**
 
